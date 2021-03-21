@@ -53,7 +53,7 @@ Pedro Carvalho – [@PedrArch](https://twitter.com/PedroArch) – pedrofrancocar
 
 ## Contributing
 
-1. Fork it (<https://github.com/PedroArch/tcomponentization-exercise>)
+1. Fork it (<https://github.com/PedroArch/componentization-exercise>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
